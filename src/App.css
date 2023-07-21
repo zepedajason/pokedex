@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.pokedex-cards{
+  justify-content: space-around;
+  display: flex;
+  }
+
+ .pokecard {
+  border: 2px solid black;
+  padding: 5px;
+  background-color: lightgray;
+ } 
